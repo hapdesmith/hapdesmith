@@ -3,7 +3,7 @@
 _____
 
 ### About me
-1. 💻 Currently WFH for one of Indonesia's Unicorn Company
+1. 💻 Currently WFH for Bukalapak as Frontend Developer
 3. ⚽ Liverpool Fans
 4. 🖥️ Tech Stack : Nuxt, Vue, Javascript, Pug, SCSS
 
