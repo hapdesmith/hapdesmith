@@ -4,8 +4,8 @@ _____
 
 ### About me
 1. 💻 Currently WFH for Bukalapak as Frontend Developer
-2 ⚽ Liverpool Fans
-3 🖥️ Tech Stack : Nuxtjs, Vue, Javascript, Pug, SCSS
+2. ⚽ Liverpool Fans
+3. 🖥️ Tech Stack : Nuxtjs, Vue, Javascript, Pug, SCSS
 
 ___
 
