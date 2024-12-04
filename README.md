@@ -3,7 +3,7 @@
 _____
 
 ### About me
-1. 💻 Lapakgaming as Frontend Developer
+1. 💻 Looking for new Frontend challenges
 2. ⚽ Liverpool Fans
 3. 🖥️ Tech Stack : Nuxtjs, Vue, Nextjs, React, Javascript, HTML, Pug, SCSS, Tailwind
 
