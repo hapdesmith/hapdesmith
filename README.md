@@ -30,12 +30,8 @@ ___
 
 ### GitHub Stats 📊
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=agungdlgs&show_icons=true&theme=radical" height="165" alt="GitHub stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=agungdlgs&theme=radical" height="165" alt="GitHub streak"/>
-</p>
-
-<p align="center">
-  <img src="https://github.com/agungdlgs/agungdlgs/blob/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=hapdesmith&show_icons=true&theme=radical" height="165" alt="GitHub stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hapdesmith&theme=radical" height="165" alt="GitHub streak"/>
 </p>
 
 ___
