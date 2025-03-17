@@ -1,13 +1,43 @@
+## Hi there! I'm Agung 👋
+
 > I have only one understanding of development and of making success, and that's by going step by step. **Jurgen Klopp**
-
-_____
-
-### About me
-1. 💻 Looking for new Frontend challenges
-2. ⚽ Liverpool Fans
-3. 🖥️ Tech Stack : Nuxtjs, Vue, Nextjs, React, Javascript, HTML, Pug, SCSS, Tailwind
 
 ___
 
-### Connect with me:
-1. [Linkedin](https://www.linkedin.com/in/agungdlgs/)  
+### About Me 🚀
+- 💻 Looking for new Frontend challenges
+- ⚽ Liverpool Fan
+- 🖥️ Tech Stack: 
+
+  <p>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" height="30" alt="Nuxt.js" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="30" alt="Vue.js" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="Next.js" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="React.js" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pug/pug-original.svg" height="30" alt="Pug" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="30" alt="SCSS" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="30" alt="Tailwind CSS" />
+  </p>
+
+___
+
+### Connect with me 📫
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Agung-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/agungdlgs/)
+
+___
+
+### GitHub Stats 📊
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=agungdlgs&show_icons=true&theme=radical" height="165" alt="GitHub stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=agungdlgs&theme=radical" height="165" alt="GitHub streak"/>
+</p>
+
+<p align="center">
+  <img src="https://github.com/agungdlgs/agungdlgs/blob/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
+</p>
+
+___
+
+🔥 *Let's build something amazing!* 🚀
