@@ -20,6 +20,10 @@ ___
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="30" alt="SCSS" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="30" alt="Tailwind CSS" />
   </p>
+___
+
+### Personal Projects 🚀
+[DIGIMON TAMER - FAN MADE](https://www.linkedin.com/in/agungdlgs/)
 
 ___
 
