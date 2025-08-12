@@ -23,7 +23,7 @@ ___
 ___
 
 ### Personal Projects 🚀
-[DIGIMON TAMER - FAN MADE]([https://www.linkedin.com/in/agungdlgs/](https://digimon-tamer.vercel.app/))
+[DIGIMON TAMER - FAN MADE](https://digimon-tamer.vercel.app/)
 
 ___
 
