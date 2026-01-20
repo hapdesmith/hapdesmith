@@ -23,6 +23,14 @@ ___
 ___
 
 ### Personal Projects 🚀
+[DOTA 2 AUTOBATTLE SIMULATOR - FAN MADE](https://dota-duel-sim.vercel.app/)
+| - | Desktop | Mobile |
+| -------- | ------- | ------- |
+| Pick Hero Phase | <img width="1894" height="904" alt="image" src="https://github.com/user-attachments/assets/0b286de3-0aa0-40a6-a01d-db3663643349" /> | <img width="376" height="817" alt="image" src="https://github.com/user-attachments/assets/2557dce0-155b-4b7e-be72-5c92a7a1761f" /> |
+| Battlefield | <img width="1897" height="905" alt="image" src="https://github.com/user-attachments/assets/7fef60c3-4d24-4a09-87f0-136c334969b7" /> | <img width="378" height="817" alt="image" src="https://github.com/user-attachments/assets/a156c1f4-f43e-4f8d-91fa-e24578c14324" /> |
+| Hero Detail | <img width="654" height="788" alt="image" src="https://github.com/user-attachments/assets/f337fb61-f903-48c0-b894-e82f13275f69" /> | <img width="377" height="819" alt="image" src="https://github.com/user-attachments/assets/bccec506-6934-4338-afd2-873f652f26b6" /> |
+| End Game | <img width="1899" height="906" alt="image" src="https://github.com/user-attachments/assets/1b80da81-ab2f-4fd2-a9c4-a320d578bd36" /> | <img width="375" height="817" alt="image" src="https://github.com/user-attachments/assets/897862f9-7771-4231-87bd-28e0da1dbe3d" /> |
+
 [DIGIMON TAMER - FAN MADE](https://digimon-tamer.vercel.app/)
 
 ___
