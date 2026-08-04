@@ -25,6 +25,43 @@ ___
 
 ### Personal Projects 🚀
 
+[WONDERKID ACADEMY](https://wonderkid-academy.vercel.app/) <img width="30" alt="logo-text" src="https://github.com/user-attachments/assets/ab146ebd-5301-4c02-ac00-a8c0ccf0e6ef" />
+
+Build your own academy and graduate some of Wonderkid.
+<table>
+  <tr>
+    <td align="center"><strong>Intake Players</strong><br><img width="220" alt="slide-15" src="https://github.com/user-attachments/assets/31e52b98-84b2-4569-bd66-595b4b2b316d" /><br><img width="220" alt="slide-16" src="https://github.com/user-attachments/assets/cba20bcd-1630-4f8f-af2a-17782f7a04a5" /></td>
+    <td align="center"><strong>Manager Players</strong><br><img width="220" alt="slide-13" src="https://github.com/user-attachments/assets/cab63fcd-8ae5-4c92-8867-62a67fafc90b" /><br><img width="220" alt="slide-2" src="https://github.com/user-attachments/assets/baac3261-9f72-4c99-946e-deeb26cd37be" /><br><img width="220" alt="slide-3" src="https://github.com/user-attachments/assets/4ebcd539-6d6d-4c42-ba91-2aeadb48743b" /></td>
+    <td align="center"><strong>Compete</strong><br><img width="220" alt="slide-9" src="https://github.com/user-attachments/assets/4a907b14-a1b5-4e76-8577-65ea40f75209" /><br><img width="220" alt="slide-17" src="https://github.com/user-attachments/assets/ff8a309f-88a8-4ea1-85b6-43ddd72369cc" />
+</td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center"><strong>Match Result & Highlight Reels</strong><br><img width="220" alt="slide-8" src="https://github.com/user-attachments/assets/b44d3466-6974-481d-bf4e-6ade0337e463" /><br><img width="220" alt="slide-5" src="https://github.com/user-attachments/assets/41d02b08-eb94-4617-8366-59e844ef21e2" />
+</td>
+    <td  align="center"><strong>Unlock The Legends</strong><br>
+      <img width="50"alt="wonderkid-2" src="https://github.com/user-attachments/assets/903e725b-84ad-4169-9341-3f521a83fc86" />
+<img width="50"alt="wonderkid-3" src="https://github.com/user-attachments/assets/9052ec5b-1301-4ed5-8c5a-98b63f661e13" />
+<img width="50"alt="wonderkid-4" src="https://github.com/user-attachments/assets/2b3e44f8-ec9b-4026-86bc-33bf235dca8f" />
+<img width="50"alt="wonderkid-5" src="https://github.com/user-attachments/assets/27b831fb-3bfd-4617-a5fe-8c7de671fa1c" />
+<img width="50"alt="wonderkid-6" src="https://github.com/user-attachments/assets/0255f7e8-3679-4b3c-839f-223a5f713ef0" /><br>
+<img width="50"alt="wonderkid-7" src="https://github.com/user-attachments/assets/19c33255-2ba6-4b86-8bc7-b0b87cb9497e" />
+<img width="50"alt="wonderkid-8" src="https://github.com/user-attachments/assets/727ac15e-0a96-45aa-a0dd-58e55994002f" />
+<img width="50"alt="wonderkid-9" src="https://github.com/user-attachments/assets/9dc35296-fdec-4cfe-80fc-82525a375c53" />
+<img width="50"alt="wonderkid-10" src="https://github.com/user-attachments/assets/1ac7254e-01cd-498a-a2a1-bef36d3f288e" />
+<img width="50"alt="wonderkid-11" src="https://github.com/user-attachments/assets/14b4d00e-5662-4657-904c-7115af276fae" /><br>
+<img width="50"alt="wonderkid-12" src="https://github.com/user-attachments/assets/df576480-e9f3-4e14-8a16-b4e7a0488c01" />
+<img width="50"alt="wonderkid-13" src="https://github.com/user-attachments/assets/e2898d99-5b62-4e38-9943-01476614cf94" />
+<img width="50"alt="wonderkid-14" src="https://github.com/user-attachments/assets/ba6bb04d-0e73-42d7-a204-3a008ff3355a" />
+<img width="50"alt="wonderkid-15" src="https://github.com/user-attachments/assets/1c8e3c78-6a09-43f1-aee6-d49fcc7b56e9" />
+<img width="50"alt="wonderkid-16" src="https://github.com/user-attachments/assets/f9bb0b4f-0aa7-4e50-b9ee-d3d313e67566" /><br>
+<img width="50"alt="wonderkid-17" src="https://github.com/user-attachments/assets/02f940f7-5448-4f8f-b395-c885667ade9e" />
+<img width="50"alt="wonderkid-18" src="https://github.com/user-attachments/assets/b1dec4e3-ea54-408c-8ecd-544179336e27" />
+<img width="50"alt="wonderkid-19" src="https://github.com/user-attachments/assets/3fdb82c6-d7de-4871-ae6f-15178c4df84e" />
+<img width="50"alt="wonderkid-1" src="https://github.com/user-attachments/assets/2ec4bebf-7710-4992-9f20-7698e609d57e" />
+</td>
+  </tr>
+</table>
+
 [WORLD CUP 2026 DRAFT & SIMULATOR - FAN MADE](https://wcsim-2026.vercel.app/)
 
 <table>
@@ -78,10 +115,6 @@ ___
     <td colspan="2" align="center"><strong>Badge</strong><br><img width="220" alt="Badge" src="https://github.com/user-attachments/assets/5bb86480-2632-46ec-b56c-99dd7a1d0171" /></td>
   </tr>
 </table>
-
-[WONDERKID ACADEMY](https://wonderkid-academy.vercel.app/)
-
-A modern academy showcase project focused on football development, player progression, and a polished community experience.
 
 ___
 
